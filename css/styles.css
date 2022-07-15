@@ -95,7 +95,6 @@ img {
 }
 
 .link-style {
-    font-size: 14px;
     line-height: 1.7;
     text-decoration: none;
     transition: color var(--anim-link);
@@ -423,7 +422,6 @@ img {
     padding-left: 23px;
     text-align: center;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
     color: var(--color-secondary-text);
@@ -483,14 +481,12 @@ img {
 }
 
 .esplyy__title {
-    font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
 .esplyy__text {
-    font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--color-secondary-text);
@@ -538,7 +534,6 @@ img {
 }
 
 .about__text {
-    font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
     color: #fff;
@@ -840,7 +835,6 @@ img {
 }
 
 .contacts__address {
-    font-size: 14px;
     line-height: 1.7;
     font-style: normal;
     color: white;
@@ -855,7 +849,6 @@ img {
     text-transform: uppercase;
     color: white;
     font-weight: bold;
-    font-size: 14px;
     margin-bottom: 20px;
 }
 
@@ -885,7 +878,6 @@ img {
 }
 
 .subscribe__label {
-    font-size: 14px;
     font-weight: bold;
     color: white;
     letter-spacing: 0.03em;
