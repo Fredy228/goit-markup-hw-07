@@ -1,16 +1,33 @@
 // Utils
 
 @import "./utils/vars";
+@import "./utils/visually-hidden";
+
 
 // Base
 
 @import "./base/reset";
 @import "./base/common";
+@import "./base/list-style";
 
 
 // Component
 
-
+@import "./component/buttons";
+@import "./component/container";
+@import "./component/modal-window";
+@import "./component/overlay";
+@import "./component/section-title";
+@import "./component/social";
 
 
 // Layout
+
+@import "./layout/header";
+@import "./layout/intro";
+@import "./layout/esplly";
+@import "./layout/about";
+@import "./layout/team";
+@import "./layout/clients";
+@import "./layout/portfolio";
+@import "./layout/footer";

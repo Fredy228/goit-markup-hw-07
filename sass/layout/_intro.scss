@@ -1,0 +1,41 @@
+.intro {
+    background-color: #2F303A;
+    padding: 200px 0;
+    background-image: url(../images/intro/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.intro__inner {
+   text-align: center; 
+}
+
+.intro__title-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.intro__title {
+    font-size: 44px;
+    line-height: 1.3;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 650px;
+    text-align: center;
+    color: white;
+}
+
+.intro__btn {
+    color: white;
+    font-weight: bold;
+    background-color: var(--color-theme);
+    padding: 10px 32px;
+    transition: background-color var(--anim-link);
+}
+
+.intro-btn:hover {
+    background-color: var(--color-btn-hover);
+}
