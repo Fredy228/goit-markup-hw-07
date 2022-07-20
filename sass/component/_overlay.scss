@@ -11,10 +11,10 @@
     background-color: #2195f3e8;
     transform: translateY(100%);
     transition: transform var(--anim-link);
-}
-
-.overlay__text {
-    font-size: 18px;
-    line-height: 1.5;
-    color: #fff;
+    
+    &__text {
+        font-size: 18px;
+        line-height: 1.5;
+        color: #fff;
+    }
 }
